@@ -1,0 +1,9 @@
+Enter in terminal for macOS
+conda create -n tf_env python=3.9
+conda activate tf_env
+conda install opencv
+pip install cvzone
+conda install tensorflow=2.15.0
+pip install mediapipe==0.9.3.0
+pip install gtts pygame
+pip install openai
