@@ -1,6 +1,24 @@
-What it does
-Our product, Sunny Glasses, is a pair of glasses that can record the user's sign language and then interpret, translate, and speak the sign language into english. Sunny Glasses also can turn speech to text for the user to see as subtitles. This means that a deaf person who only knows sign language can now speak to, and understand speech from someone who does not know sign language.
+Sunny Glasses
 
-URL: https://www.youtube.com/shorts/h2t2YR184yY 
+Inspiration
+Inspired by a deaf grandmother and her service dog, Sunny, this project aims to address daily communication challenges faced by the deaf community.
 
+What It Does
+Translates sign language to speech using machine learning and computer vision.
+Converts speech to subtitles for seamless two-way communication.
 
+How We Built It
+Trained a custom TensorFlow model for sign recognition with computer vision.
+Integrated OpenAI’s Whisper for speech-to-text translation.
+Transitioned from Raspberry Pi to a more powerful system for real-time processing.
+
+Challenges
+Overcoming hardware limitations with Raspberry Pi.
+Building and curating a robust dataset for sign language recognition.
+
+Accomplishments
+Developed a functional ML model for sign recognition.
+Created a custom dataset to train and test our system.
+
+What’s Next
+Optimize for portability, efficiency, and real-world use, turning Sunny Glasses into a scalable product for the deaf community.
