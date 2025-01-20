@@ -1,5 +1,5 @@
 # 🌟 Sunny Glasses  
-![Sunny Glasses Logo](assets/sunnyglasses.png)  
+![Sunny Glasses Logo](Assets/sunnyglasses.png)  
 > *Revolutionizing communication for the deaf community.*  
 
 ---  
@@ -27,7 +27,7 @@ Sunny Glasses:
 ---  
 
 ## 🔧 How We Built It  
-![Sunny Glasses in Action](assets/sunnyglasses1.jpg)  
+![Sunny Glasses in Action](Assets/sunnyglasses1.jpg)  
 - **ML Model:** Trained a TensorFlow model for sign language recognition.  
 - **Speech-to-Text:** Integrated OpenAI's Whisper for real-time translation.  
 - **Hardware:** Transitioned from Raspberry Pi to a webcam and PC for improved performance.  
@@ -41,7 +41,7 @@ Sunny Glasses:
 ---  
 
 ## 🎉 Accomplishments  
-![Sunny Glasses Prototype](assets/sunnyglasses.jpg)  
+![Sunny Glasses Prototype](Assets/sunnyglasses.jpg)  
 - Developed a functional ML model with a custom dataset.  
 - Enabled real-time translation between sign language and spoken language.  
 
@@ -51,11 +51,3 @@ Sunny Glasses:
 - Optimize for compactness and efficiency.  
 - Develop a market-ready product to support the deaf community.  
 
----  
-
-### 📷 Visuals  
-*(Add a screenshot or gif showcasing your prototype in action here)*  
-
----  
-
-**Let’s build accessible tech together!**  
