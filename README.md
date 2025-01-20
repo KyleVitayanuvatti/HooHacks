@@ -22,7 +22,8 @@ Sunny Glasses is inspired by my deaf grandmother and her service dog, Sunny, to 
 ## 🛠️ What It Does  
 Sunny Glasses:  
 - **Sign Language to Speech:** Converts sign language into spoken English using ML and computer vision.  
-- **Speech to Subtitles:** Displays spoken language as subtitles for two-way communication.  
+- **Speech to Subtitles:** Displays spoken language as subtitles for two-way communication.
+- **Video demo:** https://www.youtube.com/watch?v=h2t2YR184yY&embeds_referring_euri=https%3A%2F%2Fdevpost.com%2F&source_ve_path=Mjg2NjY
 
 ---
 
