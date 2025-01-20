@@ -1,24 +1,59 @@
-Sunny Glasses
+# 🌟 Sunny Glasses  
 
-Inspiration
-Inspired by a deaf grandmother and her service dog, Sunny, this project aims to address daily communication challenges faced by the deaf community.
+> *Revolutionizing communication for the deaf community.*  
 
-What It Does
-Translates sign language to speech using machine learning and computer vision.
-Converts speech to subtitles for seamless two-way communication.
+---
 
-How We Built It
-Trained a custom TensorFlow model for sign recognition with computer vision.
-Integrated OpenAI’s Whisper for speech-to-text translation.
-Transitioned from Raspberry Pi to a more powerful system for real-time processing.
+## 📖 Table of Contents  
+- [Inspiration](#inspiration)  
+- [What It Does](#what-it-does)  
+- [How We Built It](#how-we-built-it)  
+- [Challenges](#challenges)  
+- [Accomplishments](#accomplishments)  
+- [What's Next](#whats-next)  
 
-Challenges
-Overcoming hardware limitations with Raspberry Pi.
-Building and curating a robust dataset for sign language recognition.
+---
 
-Accomplishments
-Developed a functional ML model for sign recognition.
-Created a custom dataset to train and test our system.
+## 💡 Inspiration  
+Sunny Glasses is inspired by my deaf grandmother and her service dog, Sunny, to address everyday communication barriers in the deaf community.  
 
-What’s Next
-Optimize for portability, efficiency, and real-world use, turning Sunny Glasses into a scalable product for the deaf community.
+---
+
+## 🛠️ What It Does  
+Sunny Glasses:  
+- **Sign Language to Speech:** Converts sign language into spoken English using ML and computer vision.  
+- **Speech to Subtitles:** Displays spoken language as subtitles for two-way communication.  
+
+---
+
+## 🔧 How We Built It  
+- **ML Model:** Trained a TensorFlow model for sign language recognition.  
+- **Speech-to-Text:** Integrated OpenAI's Whisper for real-time translation.  
+- **Hardware:** Transitioned from Raspberry Pi to a webcam and PC for improved performance.  
+
+---
+
+## ⚙️ Challenges  
+- Limited computational power of the Raspberry Pi.  
+- Building a custom dataset for accurate sign recognition.  
+
+---
+
+## 🎉 Accomplishments  
+- Developed a functional ML model with a custom dataset.  
+- Enabled real-time translation between sign language and spoken language.  
+
+---
+
+## 🚀 What's Next  
+- Optimize for compactness and efficiency.  
+- Develop a market-ready product to support the deaf community.  
+
+---
+
+### 📷 Visuals  
+*(Add a screenshot or gif showcasing your prototype in action here)*  
+
+---
+
+**Let’s build accessible tech together!**  
